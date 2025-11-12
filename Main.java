@@ -4,6 +4,7 @@ public class Main {
     System.out.println("rrr");
     World.run();
     World.run2();
+    Hello.run();
   }
 
 }
